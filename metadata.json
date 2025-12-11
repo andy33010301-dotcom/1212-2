@@ -1,0 +1,5 @@
+{
+  "name": "Delicious Eats Ordering",
+  "description": "A responsive food ordering system featuring a categorized menu, shopping cart management, and order simulation.",
+  "requestFramePermissions": []
+}
